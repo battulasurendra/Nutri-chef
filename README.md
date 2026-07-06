@@ -145,6 +145,16 @@ Test these three scenarios in the local playground:
 
 ---
 
+## 🖼️ Assets
+
+### Project Cover Page Banner
+![Nutri-Chef Cover Banner](assets/cover_page_banner.png)
+
+### Multi-Agent Workflow Architecture Diagram
+![Nutri-Chef Architecture Diagram](assets/architecture_diagram.png)
+
+---
+
 ## Push to GitHub
 
 1. Create a new repo at https://github.com/new
