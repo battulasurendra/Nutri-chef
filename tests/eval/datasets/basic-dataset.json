@@ -1,0 +1,11 @@
+{
+  "eval_cases": [
+    {
+      "eval_case_id": "keto_salad",
+      "prompt": {
+        "role": "user",
+        "parts": [{"text": "Design a meal plan for breakfast using Keto Avocado and Egg Salad."}]
+      }
+    }
+  ]
+}
