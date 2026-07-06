@@ -155,6 +155,12 @@ Test these three scenarios in the local playground:
 
 ---
 
+## 🎙️ Demo Script
+
+A timed spoken walkthrough script is available in [DEMO_SCRIPT.txt](file:///d:/Runway/Projects/nutri-chef/DEMO_SCRIPT.txt). It walks through the Hook, Solution Architecture, and Live Demo step by step.
+
+---
+
 ## Push to GitHub
 
 1. Create a new repo at https://github.com/new
